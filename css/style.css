@@ -32,3 +32,6 @@ svg {
   fill: white;
   filter: opacity(0.5);
 }
+p {
+  color: white;
+}
